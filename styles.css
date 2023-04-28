@@ -53,6 +53,9 @@ body{
 .book3 h2{
 	text-align:left;
 } */
+.price-block div{
+	text-align:center;
+}
 .book p{
 	text-align:left;
 }
@@ -62,27 +65,12 @@ body{
 .book3 p{
 	text-align:left;
 } */
-.price-block1{
+.price-block{
 	background:#2ecc71;
 	border-radius:5px;
 	width:700px;
 	height:40px;
 	color:white;
 	padding:5px;
-}
-.price-block2{
-	background:#2ecc71;
-	border-radius:5px;
-	width:700px;
-	height:40px;
-	color:white;
-	padding:5px;
-}
-.price-block3{
-	background:#2ecc71;
-	border-radius:5px;
-	width:700px;
-	height:40px;
-	color:white;
-	padding:5px;
+	
 }
