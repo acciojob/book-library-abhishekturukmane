@@ -25,43 +25,43 @@ body{
 	height:30px;
 	margin-top:30px;
 }
-.book1{
+.book{
 	margin:40px;
 	
 }
-.book2{
+/* .book2{
 	margin:40px;
 }
 .book3{
 	margin:40px;
-}
-.book1 img{
+} */
+.book img{
 	padding-left:10px;
 }
-.book2 img{
+/* .book2 img{
 	padding-left:10px;
 }
 .book3 img{
 	padding-left:10px;
-}
-.book1 h2{
+} */
+.book h2{
 	text-align:left;
 }
-.book2 h2{
+/* .book2 h2{
 	text-align:left;
 }
 .book3 h2{
 	text-align:left;
-}
-.book1 p{
+} */
+.book p{
 	text-align:left;
 }
-.book2 p{
+/* .book2 p{
 	text-align:left;
 }
 .book3 p{
 	text-align:left;
-}
+} */
 .price-block1{
 	background:#2ecc71;
 	border-radius:5px;
