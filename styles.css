@@ -1,76 +1,45 @@
 /*  your css code here. If applicable */
-body{
-	background-color:#f8f8f8;
-	
-	
+body {
+background-color: #f8f8f8;
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+font-size: 16px;
 }
-.book-library{
-	
-	text-align:center;
-	height:60px;
+.book-library {
+width: 800px;
+margin: 20px auto;
+background-color: #ffffff;
+border-radius: 4px;
+box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
 }
-.space1{
-	background:#ffffff;
-	height:30px;
-	
+.book-library h1 {
+background-color: #f1f1f1;
+text-align: center;
+padding: 20px 0;
+font-size: 22px;
+border-bottom: 1px solid #e6e6e6;
 }
-.space2{
-	background:#ffffff;
-	height:30px;
-	margin-top:30px;
-	
+.book-library .book {
+background-color: #f1f1f1;
+padding: 20px;
+margin: 20px 0;
+border-bottom: 1px solid #e6e6e6;
 }
-.space3{
-	background:#ffffff;
-	height:30px;
-	margin-top:30px;
+.book-library .book h2 {
+margin: 0;
+font-size: 18px;
 }
-.book{
-	margin:40px;
-	
+.book-library .book p {
+margin: 0;
+font-size: 14px;
+color: #777777;
 }
-/* .book2{
-	margin:40px;
-}
-.book3{
-	margin:40px;
-} */
-.book img{
-	padding-left:10px;
-}
-/* .book2 img{
-	padding-left:10px;
-}
-.book3 img{
-	padding-left:10px;
-} */
-.book h2{
-	text-align:left;
-}
-/* .book2 h2{
-	text-align:left;
-}
-.book3 h2{
-	text-align:left;
-} */
-.price-block div{
-	text-align:center;
-}
-.book p{
-	text-align:left;
-}
-/* .book2 p{
-	text-align:left;
-}
-.book3 p{
-	text-align:left;
-} */
-.price-block{
-	background:#2ecc71;
-	border-radius:5px;
-	width:700px;
-	height:40px;
-	color:white;
-	padding:5px;
-	
+.book-library .book .price {
+background-color: #2ecc71;
+color: #ffffff;
+padding: 10px;
+text-align: center;
+border-radius: 4px;
+font-size: 14px;
 }
